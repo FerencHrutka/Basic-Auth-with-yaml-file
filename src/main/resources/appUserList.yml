@@ -1,0 +1,16 @@
+constants:
+  appUserList:
+    - userId: 1
+      userName: oliver
+      password: twist
+      role: USER
+
+    - userId: 2
+      userName: ruskin
+      password: bond
+      role: USER
+
+    - userId: 3
+      userName: mark
+      password: twain
+      role: ADMIN
